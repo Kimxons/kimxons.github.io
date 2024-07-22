@@ -30,7 +30,7 @@ Here's a bit more about my professional milestones:
 
 - **Hackathon participatn (Africa to Silicon Valley hackathon - 2023)**: Semi-finalist in the A2SV hackathon on Generative AI.
 
-- **Data Science Library**: Developer, Contributor, and Maintainer of Dataramp - a Python library for data science and analytics teams. Find it [here](https://pypi.org/project/dataramp/) (https://github.com/Kimxons/dataramp).
+- **Data Science Library**: Developer, Contributor, and Maintainer of Dataramp - a Python library for data science and analytics teams. Find it [here](https://pypi.org/project/dataramp/).
 
 
 ## 🤝 Let's Connect!
