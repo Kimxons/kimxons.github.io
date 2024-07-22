@@ -17,8 +17,8 @@ Here's a bit more about my professional milestones:
 
 ## 🎓 Academic Background
 
-- Master of Computer Science from the [Dedan Kimathi University of Technology](https://www.dkut.ac.ke/). - Ongoing
-- Bachelor of Computer Science from Dedan Kimathi University of Technology.
+<!-- - Master of Computer Science from the [Dedan Kimathi University of Technology](https://www.dkut.ac.ke/). - Ongoing -->
+- Bachelor of Computer Science from [Dedan Kimathi University of Technology](https://www.dkut.ac.ke/).
 
 ## 🌱 Beyond the Workspace
 
