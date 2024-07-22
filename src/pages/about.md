@@ -34,6 +34,6 @@ Here's a bit more about my professional milestones:
 
 
 ## 🤝 Let's Connect!
-Got an idea? A project? Or just wanna talk about the coolest AI/ML/Data Science trends over coffee (virtual or real)? Hit me up! You can find me on [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/), or drop me an email at kitongameshack9@gmail.com.
+Got an idea? A project? Or just wanna talk about the coolest AI/ML/Data Science trends over coffee (virtual or real)? Hit me up! You can find me on [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/), or drop me an email at [Email](kitongameshack9@gmail.com).
 
 *Thanks for swinging by, and here's to making AI a little more human!*
