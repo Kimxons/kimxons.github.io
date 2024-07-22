@@ -1,6 +1,6 @@
 ---
 title: "Coding K-Means Clustering using Python and NumPy"
-author: "Meshack"
+author: "Meshack Kitonga"
 pubDatetime: 2024-07-21T15:58:25Z
 slug: coding-kmeans-clustering-python-numpy
 featured: false
