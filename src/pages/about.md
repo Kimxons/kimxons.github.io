@@ -11,9 +11,9 @@ Hello and welcome! I'm Meshack, a Software Engineer / Data Scientist with a pass
 
 Here's a bit more about my professional milestones:
 
-- **Snr. Data Analysts (Sunesis Consulting Ltd.)**: As the Senior Data Analyst, I lead a dynamic team in pioneering solutions using large language models and Generative AI. Our innovative approaches are transforming the industry, and I am at the forefront of driving these advancements through strategic planning, cutting-edge research, and effective project execution.
+- **Snr. Data Analysts (Sunesis Consulting Ltd.)**: As a Senior Data Analyst at Sunesis Consulting Ltd., I led cross-functional teams to develop actionable analytic tools and dynamic dashboards, significantly improving productivity and decision-making accuracy. My role involved strategic project management and mentoring, resulting in enhanced team efficiency and successful project completions within deadlines.
 
-- **Data Scientist, NCBA Loop**: In my role at NCBA Loop, I was instrumental in enhancing the intelligence of search engines. By leveraging advanced AI techniques, I developed and implemented solutions that made the search experience more intuitive and user-centric, ultimately improving the overall customer experience and operational efficiency..
+- **Data Scientist, NCBA Loop**: In my role at NCBA Group, I leveraged advanced data analysis and machine learning techniques to enhance operational efficiency and customer experience. I developed comprehensive Power BI reports, optimized data models, and created machine learning models that reduced credit defaults. My efforts in automating business processes and designing a recommendation engine improved project success rates and customer interactions.
 
 ## 🎓 Academic Background
 
@@ -34,6 +34,6 @@ Here's a bit more about my professional milestones:
 
 
 ## 🤝 Let's Connect!
-Got an idea? A project? Or just wanna talk about the coolest AI/ML/Data Science trends over coffee (virtual or real)? Hit me up! You can find me on [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/), or drop me an email at [Email](kitongameshack9@gmail.com).
+Got an idea? A project? Or just wanna talk about the coolest AI/ML/Data Science trends over coffee (virtual or real)? Hit me up! You can find me on [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/), or drop me an email at [Email](mailto:kitongameshack9@gmail.com).
 
 *Thanks for swinging by, and here's to making AI a little more human!*
