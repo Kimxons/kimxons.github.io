@@ -21,8 +21,7 @@ For the day-to-day work of a Machine Learning Engineer or Data Scientist, it is 
 
 Despite this, it's a good exercise to try and code some of the basic algorithms from scratch, or using just NumPy. Writing code helps solidify our conceptual understanding of the algorithms, and improves our coding ability. Implementing ML algorithms without using frameworks is also a popular interview exercise. Thus, it's best to be able to code algorithms such as K-Means, K Nearest Neighbours, Linear Regression and Logistic Regression.
 
-In this post, we'll implement the K-means clustering algorithm. The code is adapted from multiple sources listed in the references at the bottom, but presented in a way to
-represent the block-by-block process of coding something relatively complex.
+In this post, we'll implement the K-means clustering algorithm. The code is adapted from multiple sources listed in the references at the bottom, but presented in a way to represent the block-by-block process of coding something relatively complex.
 
 ## Coding K-Means Clustering
 

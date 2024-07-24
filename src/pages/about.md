@@ -7,11 +7,11 @@ title: "About Meshack"
 
 ## 🌟 Professional Overview
 
-Hello and welcome! I'm Meshack, a Software Engineer / Data Scientist with a passion for building innovative solutions using Generative AI, Machine Learning, and Natural Language Processing systems. With over 3 years of experience, I have successfully navigated diverse industries, leveraging my skills to drive data-driven decision-making and create cutting-edge technologies. My journey has been marked by a commitment to excellence and a constant pursuit of knowledge, enabling me to deliver impactful solutions that address complex challenges.
+I'm Meshack, a Software Engineer / Data Scientist with a passion for building innovative solutions using Generative AI, Machine Learning, and Natural Language Processing systems. With over 3 years of experience, I have successfully navigated diverse industries, leveraging my skills to drive data-driven decision-making and create cutting-edge technologies. My journey has been marked by a commitment to excellence and a constant pursuit of knowledge, enabling me to deliver impactful solutions that address complex challenges.
 
 Here's a bit more about my professional milestones:
 
-- **Snr. Data Analysts (Sunesis Consulting Ltd.)**: As a Senior Data Analyst at Sunesis Consulting Ltd., I led cross-functional teams to develop actionable analytic tools and dynamic dashboards, significantly improving productivity and decision-making accuracy. My role involved strategic project management and mentoring, resulting in enhanced team efficiency and successful project completions within deadlines.
+- **Snr. Data Analyst (Sunesis Consulting Ltd.)**: As a Senior Data Analyst at Sunesis Consulting Ltd., I led cross-functional teams to develop actionable analytic tools and dynamic dashboards, significantly improving productivity and decision-making accuracy. My role involved strategic project management and mentoring, resulting in enhanced team efficiency and successful project completions within deadlines.
 
 - **Data Scientist, NCBA Loop**: In my role at NCBA Group, I leveraged advanced data analysis and machine learning techniques to enhance operational efficiency and customer experience. I developed comprehensive Power BI reports, optimized data models, and created machine learning models that reduced credit defaults. My efforts in automating business processes and designing a recommendation engine improved project success rates and customer interactions.
 
