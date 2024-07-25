@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://kimxons.github.io/",
+  website: "https://kitonga-meshack.vercel.app/",
   author: "Meshack Kitonga",
   desc: "Internet home of Meshack Kitonga, a software engineer specializing in AI and ML.",
   title: "Meshack Kitonga",
@@ -18,7 +18,7 @@ export const LOCALE = {
 
 export const LOGO_IMAGE = {
   enable: false,
-  svg: true,
+  jpg: true,
   width: 216,
   height: 46,
 };
@@ -60,5 +60,5 @@ export const SOCIALS: SocialObjects = [
     href: "live:kimwelemeshack01",
     linkTitle: `${SITE.title} on Skype`,
     active: false,
-  }
+  },
 ];
