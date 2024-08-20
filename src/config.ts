@@ -12,8 +12,8 @@ export const SITE: Site = {
 };
 
 export const LOCALE = {
-  lang: "en", // html lang code. Set this empty and default will be "en"
-  langTag: ["en-EN"], // BCP 47 Language Tags. Set this empty [] to use the environment default
+  lang: "en",
+  langTag: ["en-EN"],
 } as const;
 
 export const LOGO_IMAGE = {
@@ -23,7 +23,6 @@ export const LOGO_IMAGE = {
   height: 46,
 };
 
-// TODO: Update Socials
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
