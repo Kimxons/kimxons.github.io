@@ -6,7 +6,7 @@ slug: new-api:use-in-react-19
 featured: true
 draft: false
 tags:
-  - front-end
+  - frontend
   - coding
   - react
 description: "This post details how you can use the new API in React `use` to enhance your application."
