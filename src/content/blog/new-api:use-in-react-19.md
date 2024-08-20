@@ -2,7 +2,7 @@
 title: "New Api: `use` in React 19"
 author: "Meshack Kitonga"
 pubDatetime: 2024-08-20T15:58:25Z
-slug: new-api:use-in-react-19
+slug: new-api-use-in-react-19
 featured: true
 draft: false
 tags:

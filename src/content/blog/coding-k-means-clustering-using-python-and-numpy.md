@@ -3,14 +3,14 @@ title: "Coding K-Means Clustering using Python and NumPy"
 author: "Meshack Kitonga"
 pubDatetime: 2024-07-21T15:58:25Z
 slug: coding-kmeans-clustering-python-numpy
-featured: false
+featured: true
 draft: false
 tags:
   - machine-learning
   - interviews
   - machine-learning-from-scratch
 description: "This post details the process of coding the K-Means Clustering algorithm from scratch using Python and NumPy. It's a great exercise for understanding the mechanics of this fundamental machine learning algorithm."
-canonicalURL: "" 
+canonicalURL: ""
 ---
 
 ## Table of contents
