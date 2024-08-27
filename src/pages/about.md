@@ -11,6 +11,10 @@ I'm Meshack, a Software Engineer / Data Scientist with a passion for building in
 
 Here's a bit more about my professional milestones:
 
+- **Founder**: Shak Technologies Ltd - Your partner in innovative tech and data solutions.
+
+- **Fullstack Software Engineer**: TaskPlete ~ Fullstack Software (Python) developer.
+
 - **Snr. Data Analyst (Sunesis Consulting Ltd.)**: As a Senior Data Analyst at Sunesis Consulting Ltd., I led cross-functional teams to develop actionable analytic tools and dynamic dashboards, significantly improving productivity and decision-making accuracy. My role involved strategic project management and mentoring, resulting in enhanced team efficiency and successful project completions within deadlines.
 
 - **Data Scientist, NCBA Loop**: In my role at NCBA Group, I leveraged advanced data analysis and machine learning techniques to enhance operational efficiency and customer experience. I developed comprehensive Power BI reports, optimized data models, and created machine learning models that reduced credit defaults. My efforts in automating business processes and designing a recommendation engine improved project success rates and customer interactions.
@@ -18,6 +22,7 @@ Here's a bit more about my professional milestones:
 ## 🎓 Academic Background
 
 <!-- - Master of Computer Science from the [Dedan Kimathi University of Technology](https://www.dkut.ac.ke/). - Ongoing -->
+
 - Bachelor of Computer Science from [Dedan Kimathi University of Technology](https://www.dkut.ac.ke/).
 
 ## 🌱 Beyond the Workspace
@@ -32,8 +37,8 @@ Here's a bit more about my professional milestones:
 
 - **Data Science Library**: Developer, Contributor, and Maintainer of Dataramp - a Python library for data science and analytics teams. Find it [here](https://pypi.org/project/dataramp/).
 
-
 ## 🤝 Let's Connect!
+
 Got an idea? A project? Or just wanna talk about the coolest AI/ML/Data Science trends over coffee (virtual or real)? Hit me up! You can find me on [LinkedIn](https://www.linkedin.com/in/meshack-kitonga-94336a121/), or drop me an email at [Email](mailto:kitongameshack9@gmail.com).
 
-*Thanks for swinging by, and here's to making AI a little more human!*
+_Thanks for swinging by, and here's to making coding more fun!_
