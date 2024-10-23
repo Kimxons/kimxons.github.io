@@ -21,7 +21,7 @@
     "@resvg/resvg-js": "^2.6.0",
     "@vercel/speed-insights": "^1.0.12",
     "astro": "^4.1.1",
-    "caniuse-lite": "^1.0.30001643",
+    "caniuse-lite": "^1.0.30001669",
     "fuse.js": "^7.0.0",
     "github-slugger": "^2.0.0",
     "rehype-katex": "^7.0.0",
