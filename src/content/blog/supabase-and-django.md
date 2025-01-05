@@ -89,7 +89,7 @@ Step 2: **Setting Up Supabase**
 
    - Under the "API" tab, find your `Project URL` and anon (public) key.
 
-Step 3: **Configuring Django to Use Supabase**
+Step 3: **envuring Django to Use Supabase**
 
 - Use Environment Variables for Sensitive Data
 
@@ -105,10 +105,18 @@ SUPABASE_KEY=your-supabase-anon-key
 - Update myproject/settings.py to load these variables:
 
 ```python
-from decouple import config
+import environ
+import dj_database_url
 
-SUPABASE_URL = config('SUPABASE_URL')
-SUPABASE_KEY = config('SUPABASE_KEY')
+env = environ.Env()
+environ.Env.read_env()
+
+DATABASES = {
+    'default': dj_database_url.config(default=env('DATABASE_URI'))
+}
+
+SUPABASE_URL = env('SUPABASE_URL')
+SUPABASE_KEY = env('SUPABASE_KEY')
 ```
 
 - Install the Supabase Client Library
