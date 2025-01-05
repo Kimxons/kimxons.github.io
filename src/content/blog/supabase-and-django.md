@@ -92,11 +92,7 @@ Step 2: **Setting Up Supabase**
 Step 3: **Configuring Django to Use Supabase**
 
 - Use Environment Variables for Sensitive Data
-- Install `python-decouple` to manage environment variables securely:
-
-```python
-pip install python-decouple
-```
+  ![Database Settings](@assets/images/blog/settings.png)
 
 - Create a `.env` file in the root of your Django project:
 
@@ -210,6 +206,12 @@ Step 5: **Running Your Django Server**
 
 ```python
 python manage.py runserver
+```
+
+- You can access your site on
+
+```bash
+http://127.0.0.1:8000/todos/
 ```
 
 ![Data in DB](@assets/images/blog/db.png) ![Push Todo](@assets/images/blog/add-todo.png)
