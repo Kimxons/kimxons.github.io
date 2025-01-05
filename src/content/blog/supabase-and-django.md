@@ -125,7 +125,7 @@ Step 4: **Using Supabase in Your Django App**
      - task (text)
      - completed (boolean)
 - Fetch Data from Supabase in Django
-- Create a service layer to handle Supabase interactions. Create a file m`yapp/services/supabase_service.py`:
+- Create a service layer to handle Supabase interactions. Create a file `myapp/services/supabase_service.py`:
 
 ```python
 from supabase import create_client, Client
