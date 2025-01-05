@@ -92,7 +92,8 @@ Step 2: **Setting Up Supabase**
 Step 3: **Configuring Django to Use Supabase**
 
 - Use Environment Variables for Sensitive Data
-  ![Database Settings](@assets/images/blog/settings.png)
+
+![Database Settings](@assets/images/blog/settings.png)
 
 - Create a `.env` file in the root of your Django project:
 
