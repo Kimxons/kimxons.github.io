@@ -131,12 +131,14 @@ Step 4: **Using Supabase in Your Django App**
 
 - Create a Supabase Table
   1. In the Supabase dashboard, go to the "Table Editor."
-  2. Create a new table, for example, todos, with columns:
+  2. Create a new table, for our case, todos, with columns:
      - id (UUID, primary key)
      - task (text)
      - completed (boolean)
-- Fetch Data from Supabase in Django
-- Create a service layer to handle Supabase interactions. Create a file `myapp/services/supabase_service.py`:
+     - created_at (DateTime)
+     - updated_at (DateTime)
+- Fetching Data from Supabase in Django
+- We create a service layer to handle Supabase interactions. ~ `myapp/services/supabase_service.py`:
 
 ```python
 from supabase import create_client, Client
@@ -151,7 +153,7 @@ def fetch_todos():
     return response.data
 ```
 
-- Create a View to Fetch and Display Data
+- Create a View to Fetch and Display Data ~ views
 - In `myapp/views.py`, use the service layer to fetch data:
 
 ```python
