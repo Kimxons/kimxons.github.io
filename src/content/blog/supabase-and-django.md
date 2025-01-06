@@ -1,5 +1,5 @@
 ---
-title: "Integrating Supabase with Django: A comprehensive guide with best practices"
+title: "Integrating Supabase with Django: A Comprehensive Guide"
 author: "Meshack Kitonga"
 pubDatetime: 2025-01-05T20:20:36Z
 slug: integrate-supabase-with-django
