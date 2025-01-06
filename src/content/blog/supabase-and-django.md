@@ -245,3 +245,4 @@ You just did it buddy!
 
 1. [Supabase](https://supabase.com/docs/guides/database/overview)
 2. [Django](https://www.djangoproject.com/)
+3. [Link to Code](https://github.com/Kimxons/django_supabase.git)
