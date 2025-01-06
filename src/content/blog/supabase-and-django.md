@@ -79,9 +79,10 @@ Step 2: **Setting Up Supabase**
 
    - Log in to your Supabase dashboard.
 
-   - Click on "New Project."
+   - Click on **'New Project.'**
 
    - Fill in the project details and wait for the database to be provisioned.
+   - Click on `connect` to get your database uri or see db config details.
 
 2. Get Your `Project URL` and `API Key`:
 
@@ -100,6 +101,7 @@ Step 3: **envuring Django to Use Supabase**
 ```python
 SUPABASE_URL=your-supabase-project-url
 SUPABASE_KEY=your-supabase-anon-key
+DATABASE_URI=database-uri
 ```
 
 - Update myproject/settings.py to load these variables:
@@ -223,9 +225,19 @@ python manage.py runserver
 http://127.0.0.1:8000/todos/
 ```
 
-![Data in DB](@assets/images/blog/db.png) ![Push Todo](@assets/images/blog/add-todo.png)
+![Data in DB](@assets/images/blog/db.png)
+
+You can as well django shell to interact with your models.
+
+```bash
+python manage.py shell
+```
+
+![Push Todo](@assets/images/blog/add-todo.png)
 
 ## Conclusion
+
+![The Look](@assets/images/look.png)
 
 You just did it buddy!
 
