@@ -89,6 +89,16 @@ DJANGO_ALLOWED_HOSTS=${APP_DOMAIN}
 DATABASE_URL=${DATABASE_URL}
 ```
 
+You also need to modify Run Command
+
+Change the default run command to point to your WSGI application, e.g.,
+bash
+
+```bash
+gunicorn --worker-tmp-dir /dev/shm mysite.wsgi
+Replace mysite with your project's name.
+```
+
 ## Step 4: Deploying Your Application
 
 After configuring your settings:
