@@ -9,24 +9,6 @@ export interface Props {
 }
 
 const { activeNav } = Astro.props;
-
-const renderLogo = () => {
-  if (LOGO_IMAGE.enable) {
-    if (LOGO_IMAGE.svg) {
-      return <Fragment set:html={LogoSVG} />;
-    } else {
-      return (
-        <img
-          src={`/assets/logo.png`}
-          alt={SITE.title}
-          width={LOGO_IMAGE.width}
-          height={LOGO_IMAGE.height}
-        />
-      );
-    }
-  }
-  return SITE.title;
-};
 ---
 
 <header>
@@ -34,7 +16,22 @@ const renderLogo = () => {
   <div class="nav-container">
     <div class="top-nav-wrap">
       <a href="/" class="logo" aria-label={`${SITE.title} home page`}>
-        {renderLogo()}
+        {
+          LOGO_IMAGE.enable ? (
+            LOGO_IMAGE.svg ? (
+              <LogoSVG />
+            ) : (
+              <img
+                src={`/assets/logo.png`}
+                alt={SITE.title}
+                width={LOGO_IMAGE.width}
+                height={LOGO_IMAGE.height}
+              />
+            )
+          ) : (
+            SITE.title
+          )
+        }
       </a>
 
       <nav id="nav-menu" aria-label="Main navigation">
