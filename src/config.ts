@@ -1,4 +1,4 @@
-import type { Site, SocialObjects } from "./types";
+import type { Site, SocialObjects } from "types";
 
 export const SITE: Site = {
   website: "https://kitonga-meshack.vercel.app/",
@@ -8,7 +8,7 @@ export const SITE: Site = {
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 5,
-  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  scheduledPostMargin: 15 * 60 * 1000,
 };
 
 export const LOCALE = {
@@ -27,12 +27,12 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/kimxons",
-    linkTitle: ` ${SITE.title} on Github`,
+    linkTitle: `${SITE.title} on Github`,
     active: true,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/meshack-kitonga-94336a121/",
+    href: "https://www.linkedin.com/in/kimwele-meshack/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
   },
@@ -43,9 +43,9 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Twitter",
+    name: "X",
     href: "https://twitter.com/k_kitonga_",
-    linkTitle: `${SITE.title} on Twitter`,
+    linkTitle: `${SITE.title} on X`,
     active: true,
   },
   {
