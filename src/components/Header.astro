@@ -2,7 +2,7 @@
 import { LOGO_IMAGE, SITE } from "@config";
 import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
-import LogoSVG from "@assets/logo"
+import LogoSVG from "@assets/logo";
 
 export interface Props {
   activeNav?: "posts" | "tags" | "about" | "search";
@@ -13,7 +13,7 @@ const { activeNav } = Astro.props;
 const renderLogo = () => {
   if (LOGO_IMAGE.enable) {
     if (LOGO_IMAGE.svg) {
-      return <LogoSVG />;
+      return <Fragment set:html={LogoSVG} />;
     } else {
       return (
         <img
@@ -237,4 +237,3 @@ const renderLogo = () => {
 
   toggleNav();
 </script>
-
