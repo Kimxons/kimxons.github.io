@@ -10,8 +10,9 @@ export type Site = {
 };
 
 export type SocialObjects = {
-  name: "Github" | "LinkedIn" | "X" | "Mail" | "YouTube" | "Skype";
+  name: "GitHub" | "LinkedIn" | "X" | "Mail" | "YouTube" | "Skype";
   href: string;
   linkTitle: string;
   active: boolean;
+  icon: string;
 }[];

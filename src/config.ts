@@ -1,4 +1,20 @@
-import type { Site, SocialObjects } from "types";
+export type Site = {
+  website: string;
+  author: string;
+  desc: string;
+  title: string;
+  ogImage: string;
+  lightAndDarkMode: boolean;
+  postPerPage: number;
+  scheduledPostMargin: number;
+};
+
+export type SocialObjects = {
+  name: "GitHub" | "LinkedIn" | "X" | "Mail" | "YouTube" | "Skype";
+  href: string;
+  linkTitle: string;
+  active: boolean;
+}[];
 
 export const SITE: Site = {
   website: "https://kitonga-meshack.vercel.app/",
@@ -25,7 +41,7 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
-    name: "Github",
+    name: "GitHub",
     href: "https://github.com/kimxons",
     linkTitle: `${SITE.title} on Github`,
     active: true,
